@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Osmany Montero
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmontero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/osmontero?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
