@@ -4,4 +4,4 @@ With a passion for coding and a knack for leadership, I specialize in developing
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
-<img src="https://myreadme.vercel.app/api/embed/osmontero?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Osmany's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmontero&show_icons=true&theme=transparent)
