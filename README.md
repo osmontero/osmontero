@@ -5,3 +5,4 @@ With a passion for coding and a knack for leadership, I specialize in developing
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
 ![Osmany's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmontero&show_icons=true&theme=transparent)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmontero&theme=tokyonight" alt="mystreak"/>
