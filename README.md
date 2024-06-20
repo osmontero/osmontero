@@ -8,4 +8,5 @@ Feel free to explore my repositories and connect with me for collaboration oppor
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmontero&theme=tokyonight" alt="mystreak"/>
 
 <a href="https://www.linkedin.com/in/osmontero93/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://profile-counter.glitch.me/{osmontero}/count.svg" alt="osmontero :: Visitor's Count" />
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
