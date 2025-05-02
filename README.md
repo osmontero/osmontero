@@ -21,8 +21,8 @@ With a strong background in developing advanced software systems and managing co
 
 ### 🌟 Featured Projects
 
-- **UTMStack:** Open-source cybersecurity and data management platform.
-- **Quantfall Solutions:** Leading the development of secure and scalable fintech solutions.
+- **UTMStack:** Open-source SIEM and XDR platform.
+- **ThreatWinds:** Threat Intelligence platform behind UTMStack’s powerfull detection and correlation capabilities.
 
 ---
 
